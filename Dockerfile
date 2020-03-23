@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-ENV FLUTTER_VERSION="v1.12.13 + hotfix.8"
+ENV FLUTTER_VERSION="v1.12.13-hotfixes"
 ENV ANDROID_VERSION="23"
 
 # image mostly inspired from https://github.com/GoogleCloudPlatform/cloud-builders-community/blob/770e0e9/flutter/Dockerfile
